@@ -1,0 +1,22 @@
+(k) Currency Notes Distribution 
+
+ 
+
+#include <stdio.h> 
+
+int main() { int amount, hundred_amount, notes _ 100, notes_50, notes 10, rema inder ; 
+
+printf( "Enter the amount to be withdrawn (in hundreds) . 
+
+scanf( "%d" , &hundred_amount) ; 
+amount = hundred _amount * 100; 
+
+notes 100 = amount / 100; remainder = amount % 100; 
+
+notes_50 = remainder / 50; remainder = remainder % 50; 
+
+notes _ 10 = remainder / 10; 
+printf( "1 00s :notes _ 100) ; printf( " 50s :notes _ 50) ; printf( "I OS :notes_10) ; 
+
+return O; 
+
