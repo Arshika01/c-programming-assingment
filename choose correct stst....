@@ -1,0 +1,29 @@
+Which of the following shows the correct hierarchy of arithmetic operators in C? 
+
+Correct answer: (3) ** , / , * , +, _ 
+
+Explanation: In C, the hierarchy (precedence) of arithmetic operators is: 
+
+. ** (Note: ** is not a C operator, so likely this refers to or simply the precedence starts from / and *) 
+
+/ , *, % (same level) 
+
+So option 3 is the closest correct answer. 
+
+ 
+
+(I) In b -- 6.6 / a + 2 * n ; which operation will be performed first? 
+
+Correct answer: (1) 6.6 / a 
+
+Explanation: Division / and multiplication * have the same precedence and are evaluated left to right, so 6. 6 / a is performed first. 
+
+ 
+
+(m) Which of the following is allowed in a C Arithmetic instruction? 
+
+Correct answer: (3) ( ) 
+
+Explanation: Parentheses ( ) are used to alter the precedence in arithmetic expressions. { } and [ ] are not allowed in arithmetic expr€ 
+
+ 
