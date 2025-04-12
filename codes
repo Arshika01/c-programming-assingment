@@ -1,0 +1,33 @@
+Find Cost Price of One Item 
+
+ 
+
+#include <stdio. h> 
+
+int main() { float total_selling_price, total_ profit, cost _price; 
+
+printf( "Enter total selling price of 15 items: 
+
+scanf( "%f" , &total_selling_price) ; 
+
+printf("Enter total profit earned on 1 5 items: 
+p
+scanf( "%f", &total_profit) ; 
+
+cost_ price = (total_ selling_price total_ profit) / 15; 
+
+printf( "Cost price of one item is : 
+
+%. 2f\n" , cost_price) ; return O 
+
+#include <stdio .h> 
+
+int main( ) { int number, digit, result multiplier 	1 print f ( "Enter a five-digit number : 
+
+scanf( "%d" , &number) ; 
+
+for (int 1 digit = number % 10; digit = (digit + 1 ) % 1 0; // to ensure 9 becomes O result = result + digit * multiplier ; multiplier * 10 number 	10 ; print f ("New number is : result) ; return O; 
+
+
+
+
