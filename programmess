@@ -1,0 +1,76 @@
+Convert Distance in Kilometers 
+
+ 
+
+#include <stdio 
+
+int main() { float km, meters, feet, inches, centimeters; 
+
+printf("Enter distance between two cities in kilometers : 
+
+ 	
+scanf( "%f" , 
+
+meters = km 
+
+&km) ; 
+
+ 
+
+ 	
+feet = km * 
+
+3280 . 84; 
+
+ 	
+inches = km 
+
+* 39370.1 ; 
+
+centimeters — 		 
+
+1 00000; 
+
+printf("\nDistance meters); 
+
+ 
+
+feet) ; 
+
+in meters: %.2f" , in feet: %.2f" , 
+
+printf("\nDistance inches); 
+
+in inches: %.2f" , 
+
+printf("\nDistance 
+
+in centimeters: 
+
+centimeters) ; 
+
+return O; 
+
+Calculate Aggregate and 
+
+Percentage of Marks 
+
+#include <stdio.h> 
+
+int main( ) { int marks[5] , i, total = o; float percentage; 
+
+printf("Enter marks for 5 subjects 
+
+(out of for  
+
+total 	marks[i] ; 
+
+percentage = (total / 500.0) * 100; 
+
+printf( " \nAggregate Marks : %d" , total); 
+
+ 
+
+percentage) ; return O; 
+
+ 
